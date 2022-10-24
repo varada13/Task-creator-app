@@ -1,0 +1,61 @@
+
+#main{
+display: flex;
+justify-content: space-between;
+height: 90vh;
+
+}
+
+.toprig{
+    margin: 3%;
+    font-weight:bold;
+    font-size:x-large;
+    padding: 1%;
+    margin-bottom: 2%;
+}
+
+#lis{
+    display:flex;
+    justify-content: space-between;
+ 
+
+ 
+    
+}
+#butnc{
+margin-bottom: 3%;
+}
+#btall{
+    width: 30%;
+    margin-left: 30%;
+}
+
+.sp{
+  margin: 5px;
+  margin-left: 5px;
+  display:flex;
+  justify-content: space-between;
+  width: 30%;
+}
+.badge1{
+    color: black;
+    margin: 2%;
+    margin-bottom: 3%;
+}
+
+#rightside{
+   justify-content: space-between;
+    margin-right: 10px;
+    padding-right: 10px;
+    width: 50%;
+    height: 90%;
+    overflow-y: scroll;
+}
+
+#container{
+    border-right: 1px black solid;
+    margin-right: 50px;
+    padding-right: 20px;
+    width: 50%;
+    margin-left: 3%;
+}

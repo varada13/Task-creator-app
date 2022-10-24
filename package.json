@@ -1,0 +1,24 @@
+{
+  "name": "miniimdb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "cdbreact": "^1.5.3",
+    "dayjs": "^1.11.6",
+    "mobiscroll": "^3.0.0-beta6",
+    "mui": "^0.0.1",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.2.0",
+    "react-gradient-timepicker": "^0.0.3",
+    "react-scripts": "0.9.5",
+    "react-time-picker": "^5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
